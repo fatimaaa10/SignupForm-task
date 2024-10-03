@@ -1,0 +1,23 @@
+.preview-container {
+    width:fit-content;
+    margin: 5% auto;
+    padding: 20px;
+    border: 3px solid #4693a8;
+    border-radius: 5px;
+    background-color: #62cfed;
+}
+
+.preview-container h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2rem;
+    font-family:Cambria, serif, sans-serif;
+    color: #165060;
+}
+
+.preview-container p {
+    margin: 20px 5px;
+    font-size: 1.3rem;
+    font-family:Cambria, serif, sans-serif;
+    color:#134755;
+}
